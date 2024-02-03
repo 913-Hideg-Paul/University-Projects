@@ -1,3 +1,0 @@
-﻿  SortedIndexeList.cpp
-C:\Users\paulh\Downloads\SortedIndexedList\SortedIndexeList.cpp(179): warning C4715: 'SortedIndexedList::removeFromKtoK': not all control paths return a value
-  Hw2.vcxproj -> D:\1.School\DSA\Lab2\Hw2\x64\Debug\Hw2.exe
